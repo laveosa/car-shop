@@ -1,0 +1,14 @@
+#BannerComponent {
+  .banner-component {
+    height: 300px;
+    display: flex;
+    overflow: hidden;
+
+    img {
+      width: 100%;
+      position: relative;
+      margin: auto;
+      top: -150px;
+    }
+  }
+}

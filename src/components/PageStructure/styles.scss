@@ -1,0 +1,11 @@
+.page-structure-container {
+  min-height: 100%;
+  .page-left-side-container {
+    width: 300px;
+    max-width: 300px;
+    min-width: 300px;
+  }
+  .page-right-side-container {
+    background: rgb(49, 49, 49);
+  }
+}

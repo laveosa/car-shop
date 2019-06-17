@@ -1,0 +1,18 @@
+.asterix {
+  color: red;
+  position: relative;
+  font-weight: bold;
+  top: -4px;
+  left: -4px;
+}
+
+#CarFormComponent {
+  .input-group-text {
+    min-width: 80px;
+  }
+  .buttons-area {
+    .btn {
+      min-width: 100px;
+    }
+  }
+}

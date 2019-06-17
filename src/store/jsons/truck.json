@@ -1,0 +1,215 @@
+[
+  {
+    "name": "DAF",
+    "modelInfo": "CF 75.360 EURO 5",
+    "vehicleType": "truck",
+    "year": "2007",
+    "fuelType": "diesel",
+    "price": "33.500",
+    "extras": "ABS, Air Conditioning, Cruise control, Parking heater, Sleeping cabin",
+    "images": [
+      "https://pic.truckscout24.net/images-big/56/35/0018933556001.jpg?time=6266111",
+      "https://pic.truckscout24.net/images-big/56/35/0018933556006.jpg?time=6266111",
+      "https://pic.truckscout24.net/images-big/56/35/0018933556003.jpg?time=6266111"
+    ]
+  },
+  {
+    "name": "Mercedes Benz",
+    "modelInfo": "Sprinter 416 CDI 2.7",
+    "vehicleType": "truck",
+    "year": null,
+    "fuelType": "diesel",
+    "price": "8.800",
+    "extras": "Trailer coupling",
+    "images": [
+      "https://pic.truckscout24.net/images-big/57/29/0018932957001.jpg",
+      "https://pic.truckscout24.net/images-big/57/29/0018932957002.jpg",
+      "https://pic.truckscout24.net/images-big/57/29/0018932957003.jpg"
+    ]
+  },
+  {
+    "name": "Mercedes Benz",
+    "modelInfo": "Actros 1843/Kassbohrer Variotrans Pro/HU 03/20",
+    "vehicleType": "truck",
+    "year": "2014",
+    "fuelType": "diesel",
+    "price": "68.900",
+    "extras": "ABS, Air Conditioning, Parking heater",
+    "images": [
+      "https://pic.truckscout24.net/images-big/90/25/0018932590001.jpg",
+      "https://pic.truckscout24.net/images-big/90/25/0018932590003.jpg",
+      "https://pic.truckscout24.net/images-big/90/25/0018932590005.jpg"
+    ]
+  },
+  {
+    "name": "MAN",
+    "modelInfo": "TGA 26.400 6X2 Euro 5",
+    "vehicleType": "truck",
+    "year": "2011",
+    "fuelType": "diesel",
+    "price": "49.750",
+    "extras": "ABS, Air Conditioning, Cruise control, Sleeping cabin",
+    "images": [
+      "https://pic.truckscout24.net/images-big/63/35/0018933563001.jpg",
+      "https://pic.truckscout24.net/images-big/63/35/0018933563003.jpg",
+      "https://pic.truckscout24.net/images-big/63/35/0018933563006.jpg"
+    ]
+  },
+  {
+    "name": "Iveco",
+    "modelInfo": "35S18 ",
+    "vehicleType": "truck",
+    "year": "2017",
+    "fuelType": "diesel",
+    "price": "31.500",
+    "extras": "ABS, Additional headlights, Air Conditioning, Cable winch, Compressor, Cruise control, Onboard computer, Parking heater, Sleeping cabin, Soot filter, Traction control, Trailer coupling",
+    "images": [
+      "https://pic.truckscout24.net/images-big/97/11/0018931197001.jpg",
+      "https://pic.truckscout24.net/images-big/97/11/0018931197002.jpg"
+    ]
+  },
+  {
+    "name": "Iveco",
+    "modelInfo": "Daily 40 C 15 3.0 L",
+    "vehicleType": "truck",
+    "year": "2014",
+    "fuelType": "diesel",
+    "price": "25.850",
+    "extras": "ABS, Air Conditioning, Trailer coupling",
+    "images": [
+      "https://pic.truckscout24.net/images-big/55/07/0018930755001.jpg",
+      "https://pic.truckscout24.net/images-big/55/07/0018930755003.jpg",
+      "https://pic.truckscout24.net/images-big/55/07/0018930755005.jpg"
+    ]
+  },
+  {
+    "name": "Mercedes Benz",
+    "modelInfo": "Actros 1844 EURO5 retarder",
+    "vehicleType": "truck",
+    "year": "2007",
+    "fuelType": "diesel",
+    "price": "16.900",
+    "extras": "ABS, Air Conditioning, Cruise control, Parking heater, Sleeping cabin, Trailer coupling",
+    "images": [
+      "https://pic.truckscout24.net/images-big/26/91/0018929126001.jpg",
+      "https://pic.truckscout24.net/images-big/26/91/0018929126003.jpg",
+      "https://pic.truckscout24.net/images-big/26/91/0018929126009.jpg"
+    ]
+  },
+  {
+    "name": "Mercedes Benz",
+    "modelInfo": "1844 6x2 truck / bus / car transporter retarder",
+    "vehicleType": "truck",
+    "year": "2007",
+    "fuelType": "diesel",
+    "price": "17.900",
+    "extras": "ABS, Cruise control, Parking heater, Sleeping cabin, Trailer coupling",
+    "images": [
+      "https://pic.truckscout24.net/images-big/30/91/0018929130001.jpg",
+      "https://pic.truckscout24.net/images-big/30/91/0018929130003.jpg",
+      "https://pic.truckscout24.net/images-big/30/91/0018929130008.jpg"
+    ]
+  },
+  {
+    "name": "Iveco",
+    "modelInfo": "DAILY70C18 DokaSchiebeplateu 6100mm Planenaufbau",
+    "vehicleType": "truck",
+    "year": "2019",
+    "fuelType": "diesel",
+    "price": "59.790",
+    "extras": "ABS, Air Conditioning, Central locking, Electronic Stability Program (ESP), Soot filter",
+    "images": [
+      "https://pic.truckscout24.net/images-big/13/54/0018925413001.jpg",
+      "https://pic.truckscout24.net/images-big/13/54/0018925413002.jpg",
+      "https://pic.truckscout24.net/images-big/13/54/0018925413003.jpg",
+      "https://pic.truckscout24.net/images-big/13/54/0018925413008.jpg",
+      "https://pic.truckscout24.net/images-big/13/54/0018925413009.jpg"
+    ]
+  },
+  {
+    "name": "Mercedes Benz",
+    "modelInfo": "Atego autotransporter euro 6",
+    "vehicleType": "truck",
+    "year": "2014",
+    "fuelType": "diesel",
+    "price": null,
+    "extras": "ABS, Air Conditioning, Cruise control, Onboard computer, Trailer coupling",
+    "images": [
+      "https://pic.truckscout24.net/images-big/78/74/0018927478001.jpg",
+      "https://pic.truckscout24.net/images-big/78/74/0018927478002.jpg",
+      "https://pic.truckscout24.net/images-big/78/74/0018927478004.jpg",
+      "https://pic.truckscout24.net/images-big/78/74/0018927478006.jpg"
+    ]
+  },
+  {
+    "name": "MAN",
+    "modelInfo": "TGL 8.220 4X2 BL Euro 5, Autotransporter",
+    "vehicleType": "truck",
+    "year": "2013",
+    "fuelType": "diesel",
+    "price": "39.990",
+    "extras": "ABS, Air Conditioning, Cruise control, Differential lock, Low noise, Onboard computer, Parking heater, Trailer coupling",
+    "images": [
+      "https://pic.truckscout24.net/images-big/07/66/0018926607001.jpg",
+      "https://pic.truckscout24.net/images-big/07/66/0018926607004.jpg",
+      "https://pic.truckscout24.net/images-big/07/66/0018926607006.jpg",
+      "https://pic.truckscout24.net/images-big/07/66/0018926607013.jpg"
+    ]
+  },
+  {
+    "name": "Mercedes Benz",
+    "modelInfo": "Actros 1845 LS 4x2 StreamSpace PB",
+    "vehicleType": "truck",
+    "year": "2017",
+    "fuelType": "diesel",
+    "price": "58.900",
+    "extras": "2 axlesAir suspensionAutomatic transmissionDieselDisc brakeEuro 6UsedTare weight: 8379 kg4x2 Length: 630 cmWidth: 250 cmHeight: 393 cm",
+    "images": [
+      "https://www.trucksnl.com/TruckPics/size5/4521403_1.jpg",
+      "https://www.trucksnl.com/TruckPics/size5/4521403_4.jpg",
+      "https://www.trucksnl.com/TruckPics/size5/4521403_6.jpg"
+    ]
+  },
+  {
+    "name": "Volvo",
+    "modelInfo": "FH13 500 4x2 XL Euro 6 VEB+",
+    "vehicleType": "truck",
+    "year": "2017",
+    "fuelType": "diesel",
+    "price": "55.900",
+    "extras": "2 axlesAir suspensionAutomatic transmissionDieselDisc brakeEuro 6UsedTare weight: 8410 kg4x2 Length: 599 cmWidth: 251 cmHeight: 393 cm",
+    "images": [
+      "https://www.trucksnl.com/TruckPics/size5/4648667_1.jpg",
+      "https://www.trucksnl.com/TruckPics/size5/4648667_4.jpg",
+      "https://www.trucksnl.com/TruckPics/size5/4648667_6.jpg"
+    ]
+  },
+  {
+    "name": "Volvo",
+    "modelInfo": "FH13 540 6x2 XL Euro 6 Retarder ADR Double Boogie",
+    "vehicleType": "truck",
+    "year": "2018",
+    "fuelType": "diesel",
+    "price": "84.500",
+    "extras": "3 axlesAir suspensionAutomatic transmissionDieselDisc brakeEuro 6RetarderUsedTare weight: 9963 kg6x2 Length: 696 cmWidth: 252 cmHeight: 394 cm",
+    "images": [
+      "https://www.trucksnl.com/TruckPics/size5/4862933_1.jpg",
+      "https://www.trucksnl.com/TruckPics/size5/4862933_4.jpg",
+      "https://www.trucksnl.com/TruckPics/size5/4862933_6.jpg"
+    ]
+  },
+  {
+    "name": "Mercedes Benz",
+    "modelInfo": "Actros 1845 LS 4x2 BigSpace PC",
+    "vehicleType": "truck",
+    "year": "2017",
+    "fuelType": "diesel",
+    "price": "63.500",
+    "extras": "2 axlesAir suspensionAutomatic transmissionDieselDisc brakeEuro 6UsedTare weight: 8365 kg4x2 Length: 631 cmWidth: 250 cmHeight: 393 cm",
+    "images": [
+      "https://www.trucksnl.com/TruckPics/size5/4862935_1.jpg",
+      "https://www.trucksnl.com/TruckPics/size5/4862935_4.jpg",
+      "https://www.trucksnl.com/TruckPics/size5/4862935_6.jpg"
+    ]
+  }
+]

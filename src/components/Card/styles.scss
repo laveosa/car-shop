@@ -1,0 +1,29 @@
+.card-container {
+  margin: 10px;
+  width: 100px;
+  min-width: 290px !important;
+  max-width: 33.3%;
+  flex-grow: 1;
+
+  .image-cover {
+    height: 220px;
+    background: lightgray;
+    // padding: 10px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    > img {
+      width: 100%;
+    }
+  }
+  .card-header {
+  }
+  .card-body {
+    max-height: 318px;
+    overflow-y: auto;
+  }
+  .card-footer {
+  }
+}

@@ -1,0 +1,23 @@
+#NavigationComponent {
+  .navigation-container {
+    padding: 10px;
+    box-shadow: 0px -2px 4px 1px #212529;
+    position: relative;
+
+    .nav-link {
+      margin: 2px;
+      padding: 6px 10px;
+      min-width: 70px;
+      border-bottom: 1px solid transparent;
+      border-radius: 6px;
+      text-align: center;
+
+      &.active {
+        background: rgb(96, 98, 116);
+      }
+      &:hover {
+        background: rgb(96, 98, 116);
+      }
+    }
+  }
+}
